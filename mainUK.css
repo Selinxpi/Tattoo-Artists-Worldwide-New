@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+* { margin: 0; padding: 0; }
+img{
+    max-width: 50%;
+    height: auto;
+    width:auto\9;
+}
+#header{
+    width: 100%;
+    height: 200px;
+    cursor: cell;
+    background: black url('img/cooltext395266109083482.png')no-repeat center center;
+    border-bottom: 8px solid rgb(202, 113, 165);
+    border-style:double
+}
+.navaside{
+    float:left;
+    width: 100%;
+    height: auto;
+    background: black;
+    border-bottom: 8px solid rgb(202, 113, 165);
+    border-style:double;
+}
+.navmain{
+    display:flex;
+    float:left;
+    min-height: 50px;
+}
+.uk{
+    float:left;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+#main{
+    width: 100%;
+    cursor: cell;
+    background: url("img/wp.gif")no-repeat center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    border-style:double;
+    float:left;
+    cursor: cell;
+}
+.Mira1{
+    display:flex;
+    float:left;
+    min-height: 50px;
+}
+.mira{
+    width: 50%;
+    float:left;
+    margin-left:60px;
+}
+.des{
+    color: rgb(240, 190, 200);
+    font-size: 2em;
+    text-align: center; 
+    font-family: 'Nanum Gothic', sans-serif;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    float:left;
+    margin-top: 10%;
+    margin-right: 15%;
+}
+.mirawork1{
+    width:12%;
+    height: 270px;
+    float:left;
+}
+.mirawork2{
+    width:11%;
+    height: 270px;
+    float:left;
+}
+.mirawork3{
+    width:7%;
+    height: 270px;
+    float:left;
+}
+.mirawork4{
+    width:7%;
+    height: 270px;
+    float:left;
+}
+.mirawork5{
+    width:7%;
+    height: 270px;
+    float:left;
+}
+.mirawork6{
+    width:9%;
+    height: 270px;
+    float:left;
+}
+.ademwork1{
+    width:10%;
+    height: 270px;
+    float:left;
+}
+.ademwork2{
+    width:7%;
+    height: 270px;
+    float:left;
+}
+.ademwork3{
+    width:9%;
+    height: 270px;
+    float:left;
+}
+.ademwork4{
+    width:7%;
+    height: 270px;
+    float:left;
+}
+.ademwork5{
+    width:7%;
+    height: 270px;
+    float:left;
+}
+.ademwork6{
+    width:7%;
+    height: 270px;
+    float:left;
+}
+.adem{
+    width:20%;
+    float:right;
+    margin-top: 200px;
+    margin-right: 100px;
+    margin-bottom:30px
+}
+.textp{
+    float:right;
+    color: rgb(240, 190, 200);
+    text-align: center; 
+    font-size: 2em;
+    font-family: 'Nanum Gothic', sans-serif;
+    word-spacing: 5px;
+    margin-left: 1000px;
+    margin-bottom: 50px;
+
+
+}
+.welcome{
+    color: rgb(241, 160, 178);
+    text-align: center; 
+    font-size: 7em;
+    font-family: 'Italianno', sans-serif;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+}
+.p{
+    color: rgb(241, 160, 178);
+    text-align: center; 
+    font-size: 2em;
+    font-family: 'Nanum Gothic', sans-serif;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+.inst1{
+    width: 40px;
+    float: right;
+    margin-left: 100px;
+    margin-top: 210px;
+}
+.inst2{
+    width: 40px;
+    margin-right: 50px;
+    float:right;
+}
+.navfooter{
+    display:flex;
+    float:left;
+    width:100%;
+    justify-content: center;
+}
+#footer{
+    width: 100%;
+    height: 20%;
+    cursor: cell;
+    background: black;
+    border-top: 8px solid rgb(202, 113, 165);
+    border-style:double;
+
+}
+.arrow1{
+    width: 6%;
+    padding-left: 300px;
+}
+.arrow2{
+    width: 6%;
+    float:right;
+    padding-right: 400px;
+}
+.google{
+    width: 4%;
+    padding-left: 250px;
+}
+.wiki{
+    width: 4%;
+    padding-left: 70px;
+}
+.inst{
+    width: 4%;
+    padding-left: 70px;
+    margin-top: 40px;
+}
+.button {
+    color: rgb(206, 103, 125);
+    background-color: black;
+    font-size: 24px;
+    width: 100px;
+    float: left;
+    margin-top:10px;
+    border-radius: 50%;
+}

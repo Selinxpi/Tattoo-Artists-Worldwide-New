@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+* { margin: 0; padding: 0; }
+img{
+    max-width: 50%;
+    height: auto;
+    width:auto\9;
+}
+#header{
+    width: 100%;
+    height: 200px;
+    cursor: cell;
+    background: black url('img/cooltext395266109083482.png')no-repeat center center;
+    border-bottom: 8px solid rgb(202, 113, 165);
+    border-style:double
+}
+.navaside{
+    display:flex;
+}
+.navaside{
+    float:left;
+    width: 100%;
+    height: auto;
+    background: black;
+    border-bottom: 8px solid rgb(202, 113, 165);
+    border-style:double;
+    cursor: cell;
+}
+.navmain{
+    display:flex;
+    float:left;
+    min-height: 50px;
+    width:100%
+}
+.gr{
+    float:left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#main{
+    width: 100%;
+    cursor: cell;
+    background: url("img/wp.gif")no-repeat center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    border-style:double;
+    float:left;
+    cursor: cell;
+}
+.Amiran{
+    display:flex;
+    float:left;
+}
+.ami{
+    width: 50%;
+    float:left;
+    margin-left:60px;
+    margin-bottom:50px;
+
+}
+.des{
+    color: rgb(240, 190, 200);
+    font-size: 2em;
+    font-family: 'Nanum Gothic', sans-serif;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    float:left;
+    margin-top: 15%;
+}
+.amiranwork1{
+    width:10%;
+    height: 270px;
+    float:left;
+}
+.amiranwork2{
+    width:9%;
+    height: 270px;
+    float:left;
+}
+.amiranwork3{
+    width:8%;
+    height: 270px;
+    float:left;
+}
+.amiranwork4{
+    width:9%;
+    height: 270px;
+    float:left;
+}
+.amiranwork5{
+    width:9%;
+    height: 270px;
+    float:left;
+}
+.amiranwork6{
+    width:7%;
+    height: 270px;
+    float:left;
+}
+.amiranwork7{
+    width:9%;
+    height: 270px;
+    float:left;
+}
+.amiranwork8{
+    width:7%;
+    height: 270px;
+    float:left;
+}
+.amiranwork9{
+    width:8%;
+    height: 270px;
+    float:left;
+}
+.amiranwork10{
+    width:8%;
+    height: 270px;
+    float:left;
+}
+.amiranwork11{
+    width:9%;
+    height: 270px;
+    float:left;
+}
+.amiranwork12{
+    width:7%;
+    height: 270px;
+    float:left;
+}
+.welcome{
+    color: rgb(241, 160, 178);
+    text-align: center; 
+    font-size: 6em;
+    font-family: 'Italianno', sans-serif;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    margin-right: 70px;
+}
+.p{
+    color: rgb(241, 160, 178);
+    text-align: center; 
+    font-size: 2em;
+    font-family: 'Nanum Gothic', sans-serif;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+.inst1{
+    width: 40px;
+    float: right;
+    margin-left: 100px;
+    margin-top: 300px;
+}
+.inst2{
+    width: 40px;
+    margin-right: 50px;
+    float:right;
+}
+.navfooter{
+    display:flex;
+    float:left;
+    width:100%;
+    justify-content: center;
+}
+#footer{
+    width: 100%;
+    height: 20%;
+    cursor: cell;
+    background: black;
+    border-top: 8px solid rgb(202, 113, 165);
+    border-style:double;
+
+}
+.arrow1{
+    width: 6%;
+    padding-left: 300px;
+}
+.arrow2{
+    width: 6%;
+    float:right;
+    padding-right: 400px;
+}
+.google{
+    width: 4%;
+    padding-left: 250px;
+}
+.wiki{
+    width: 4%;
+    padding-left: 70px;
+}
+.inst{
+    width: 4%;
+    padding-left: 70px;
+    margin-top: 40px;
+}
+.button {
+    color: rgb(206, 103, 125);
+    background-color: black;
+    font-size: 24px;
+    width: 100px;
+    float: left;
+    margin-top:10px;
+    border-radius: 50%;
+}
